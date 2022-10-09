@@ -1,9 +1,0 @@
-V1.0 chmcl add Jump Plate
-v0.5 chmcl edit Adel02's Mute City 1 Snes (https://github.com/adel02/F-Zero-GX-Custom-Track/tree/main/Mute%20City%201%20Snes). scale-up (x1.25) and scenery update.
-V0.4 NGUU create track model and track data.
-V0.3 [POC]chmcl makes finishable track data.
-v0.2 [POC]chmcl add background.
-V0.1 [POC]chmcl scale up track width.
-V0.0 [POC]chmcl create track model and track data.
-
-under v0.4 makes error.
